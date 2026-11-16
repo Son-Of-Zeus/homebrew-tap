@@ -7,7 +7,7 @@ cask "clipnotch" do
   desc "Menu bar clipboard manager"
   homepage "https://github.com/Son-Of-Zeus/homebrew-tap"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "ClipNotch.app"
 
