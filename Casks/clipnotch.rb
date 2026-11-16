@@ -5,7 +5,7 @@ cask "clipnotch" do
   url "https://github.com/Son-Of-Zeus/homebrew-tap/releases/download/v#{version}/ClipNotch-#{version}.zip"
   name "ClipNotch"
   desc "Menu bar clipboard manager"
-  homepage "https://github.com/Son-Of-Zeus/ClipNotch"
+  homepage "https://github.com/Son-Of-Zeus/homebrew-tap"
 
   depends_on macos: ">= :sonoma"
 
