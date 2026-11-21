@@ -1,6 +1,6 @@
 cask "clipnotch" do
-  version "1.0"
-  sha256 "e4a5bb1014efac816691c9f35a194cfaa24891b48a18751c54157d373641b7d9"
+  version "1.0.1"
+  sha256 "fd10602cf25d5f9f39cbaae18ed40e3df7cf2b043a5d0ce15177763ba2469f54"
 
   url "https://github.com/Son-Of-Zeus/homebrew-tap/releases/download/v#{version}/ClipNotch-#{version}.zip"
   name "ClipNotch"
